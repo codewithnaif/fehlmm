@@ -1,0 +1,2 @@
+INFO:root:This is a rotating log example.
+ERROR:root:File error occurred: [Errno 2] No such file or directory: 'nofile.txt'
